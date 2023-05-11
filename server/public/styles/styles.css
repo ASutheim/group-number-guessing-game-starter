@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+#generate-number-btn {
+  text-align: center;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+#player-box {
+  border-style: solid 1px;
+  background-color: lightblue;
+  padding: 2%;
+  text-align: center;
+}
